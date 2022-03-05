@@ -1,6 +1,6 @@
 pipeline {
   environment {
-    imagename = "yenigul/hacicenkins"
+    imagename = "pramod654321/rkmhub"
     registryCredential = 'pramod654321'
     dockerImage = ''
   }
